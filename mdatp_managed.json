@@ -2,7 +2,7 @@
   "antivirusEngine":{
     "enforcementLevel":"real_time",
     "behaviorMonitoring":"enabled",
-    "scanAfterDefinitionUpdate":true,
+    "scanAfterDefinitionUpdate":false,
     "scanArchives":true,
     "maximumOnDemandScanThreads":2,
     "exclusionsMergePolicy":"admin_only",
